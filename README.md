@@ -247,7 +247,7 @@ For production use, consider:
 
 ## License
 
-This project is licensed under the same terms as the parent repository.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
